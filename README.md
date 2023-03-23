@@ -78,8 +78,8 @@ Distributed under the GNU GPLv3 License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Brandon Martinez - eTop Technology
-brandon@etoptechnology.com
+Brandon Martinez - eTop Technology  
+brandon@etoptechnology.com  
 Giga#4634
 
 Project Link: [https://github.com/etopbrandon/Sophos365Exclusions](https://github.com/etopbrandon/Sophos365Exclusions)
