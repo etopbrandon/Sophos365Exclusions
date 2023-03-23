@@ -20,7 +20,7 @@ You must have a Sophos XG firewall with licensing for Web Protection. It is reco
 
 ### Installation
 
-1. Download the `SophosFixed365Exclusions.tar` file. Do not extract it
+1. Download the `SophosFixed365Exclusions.tar` file from [Releases](https://github.com/etopbrandon/Sophos365Exclusions/releases/tag/Release). Do not extract it
 2. Launch the SFOS console as an administrator
 3. Navigate to `Backup & Firmware` in the left nav bar under "SYSTEM"
 4. Select the `Import Export` tab
